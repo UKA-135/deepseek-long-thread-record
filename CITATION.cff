@@ -1,0 +1,14 @@
+yaml
+cff-version: 1.2.0
+message: "If you use this dataset in your research, please cite it as below."
+title: "UKA-135: Long-Term Human Engagement with AI (500,000+ Word Single-Thread Dataset)"
+authors:
+  - alias: "pinuslongaeva"
+date-released: 2026-11-16
+url: "https://github.com"
+keywords:
+  - "human-AI interaction"
+  - "long-term human engagement with AI"
+  - "long-context"
+  - "multi-turn dialogue"
+  - "DeepSeek"
